@@ -137,10 +137,35 @@ footer{
     header h1{
         width: 400vw;
         text-align: center;
+        font-size: 80px;
     }
 
     .container-Ppal{
         display: flex;
-        flex-direction: column;
+        width: 480vw;
+        height: 670vw;
     }
+
+    .container-son{
+
+        display: flex;
+        flex-direction: column;
+        width: 480vw;
+        height: 100%;
+
+    }
+    
+    .create-Prototype{
+        width: 480vw;
+        justify-content: center;
+
+    }
+
+    .desarrollo-Apps{
+        width: 480vw;
+    }
+    .Desing-Web{
+        width: 480vw;
+    }
+
 }
